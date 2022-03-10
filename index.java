@@ -1,6 +1,6 @@
 public static boolean esPrimo(int n)
 {
-    int i=2;
+    int i=10;
     while(n<5){
         return false;
     }
