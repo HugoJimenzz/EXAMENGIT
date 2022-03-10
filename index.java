@@ -1,7 +1,7 @@
 public static boolean esPrimo(int n)
 {
-    int i=10;
-    while(n<5){
+    int i=2;
+    while(n<1){
         return false;
     }
     while (n<i){
